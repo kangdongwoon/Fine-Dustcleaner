@@ -1,3 +1,7 @@
+/*
+ * Arduino Uno에서 PM2008 미세먼지 센서 값을 I2C 통신으로 읽고
+ * Uart 통신으로 NodeMCU에 Startbit와 Endbit를 포함해 전송
+ */
 #include <pm2008_i2c.h>
 #define enA 9
 #define in3 4
