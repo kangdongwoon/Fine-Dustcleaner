@@ -2,10 +2,10 @@
 
 Project : Auto Finedust Cleaner (19.03 ~ 19.5.15)
 
-## <What is this?>
+## What is this?
 - I made this for automation of finedust cleaner and checking out house condition.
-
-## <Hareware>
+  
+## Hareware 
   
 - Arduino Uno (Checking out sensor value & Running the cleaner)
   
